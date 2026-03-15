@@ -1,3 +1,4 @@
+
 # WakeSlap — Terms of Service                                                                                        
                                                                                                                          
   **Last updated: February 25, 2026**                                                                                    
@@ -72,3 +73,4 @@
   If you have questions about these terms, please contact us at:
 
   **Email**: support@wakeslap.com
+
